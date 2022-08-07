@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projetos\\Aulas\\Cursos\\.NET 6 com Microserviços\\Seção 7 - Criando o Primeiro Microsserviço\\ErudioMicroservices.NET6\\GeekShooping\\GeekShooping.Web\\GeekShooping.Web.csproj",
+      "projectUniqueName": "E:\\Projetos\\Aulas\\Cursos\\.NET 6 com Microserviços\\Projeto Ecommerce\\ErudioMicroservices.NET6\\GeekShooping\\GeekShooping.Web\\GeekShooping.Web.csproj",
       "projectName": "GeekShooping.Web",
-      "projectPath": "E:\\Projetos\\Aulas\\Cursos\\.NET 6 com Microserviços\\Seção 7 - Criando o Primeiro Microsserviço\\ErudioMicroservices.NET6\\GeekShooping\\GeekShooping.Web\\GeekShooping.Web.csproj",
+      "projectPath": "E:\\Projetos\\Aulas\\Cursos\\.NET 6 com Microserviços\\Projeto Ecommerce\\ErudioMicroservices.NET6\\GeekShooping\\GeekShooping.Web\\GeekShooping.Web.csproj",
       "packagesPath": "C:\\Users\\Lipe\\.nuget\\packages\\",
-      "outputPath": "E:\\Projetos\\Aulas\\Cursos\\.NET 6 com Microserviços\\Seção 7 - Criando o Primeiro Microsserviço\\ErudioMicroservices.NET6\\GeekShooping\\GeekShooping.Web\\obj\\",
+      "outputPath": "E:\\Projetos\\Aulas\\Cursos\\.NET 6 com Microserviços\\Projeto Ecommerce\\ErudioMicroservices.NET6\\GeekShooping\\GeekShooping.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
