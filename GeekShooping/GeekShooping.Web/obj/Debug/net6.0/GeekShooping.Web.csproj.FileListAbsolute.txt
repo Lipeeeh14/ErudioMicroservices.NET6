@@ -24,3 +24,29 @@ E:\Projetos\Aulas\Cursos\.NET 6 com Microserviços\Seção 7 - Criando o Primeir
 E:\Projetos\Aulas\Cursos\.NET 6 com Microserviços\Seção 7 - Criando o Primeiro Microsserviço\ErudioMicroservices.NET6\GeekShooping\GeekShooping.Web\obj\Debug\net6.0\GeekShooping.Web.pdb
 E:\Projetos\Aulas\Cursos\.NET 6 com Microserviços\Seção 7 - Criando o Primeiro Microsserviço\ErudioMicroservices.NET6\GeekShooping\GeekShooping.Web\obj\Debug\net6.0\GeekShooping.Web.genruntimeconfig.cache
 E:\Projetos\Aulas\Cursos\.NET 6 com Microserviços\Seção 7 - Criando o Primeiro Microsserviço\ErudioMicroservices.NET6\GeekShooping\GeekShooping.Web\obj\Debug\net6.0\ref\GeekShooping.Web.dll
+E:\Projetos\Aulas\Cursos\.NET 6 com Microserviços\Projeto Ecommerce\ErudioMicroservices.NET6\GeekShooping\GeekShooping.Web\bin\Debug\net6.0\appsettings.Development.json
+E:\Projetos\Aulas\Cursos\.NET 6 com Microserviços\Projeto Ecommerce\ErudioMicroservices.NET6\GeekShooping\GeekShooping.Web\bin\Debug\net6.0\appsettings.json
+E:\Projetos\Aulas\Cursos\.NET 6 com Microserviços\Projeto Ecommerce\ErudioMicroservices.NET6\GeekShooping\GeekShooping.Web\bin\Debug\net6.0\GeekShooping.Web.staticwebassets.runtime.json
+E:\Projetos\Aulas\Cursos\.NET 6 com Microserviços\Projeto Ecommerce\ErudioMicroservices.NET6\GeekShooping\GeekShooping.Web\bin\Debug\net6.0\GeekShooping.Web.exe
+E:\Projetos\Aulas\Cursos\.NET 6 com Microserviços\Projeto Ecommerce\ErudioMicroservices.NET6\GeekShooping\GeekShooping.Web\bin\Debug\net6.0\GeekShooping.Web.deps.json
+E:\Projetos\Aulas\Cursos\.NET 6 com Microserviços\Projeto Ecommerce\ErudioMicroservices.NET6\GeekShooping\GeekShooping.Web\bin\Debug\net6.0\GeekShooping.Web.runtimeconfig.json
+E:\Projetos\Aulas\Cursos\.NET 6 com Microserviços\Projeto Ecommerce\ErudioMicroservices.NET6\GeekShooping\GeekShooping.Web\bin\Debug\net6.0\GeekShooping.Web.dll
+E:\Projetos\Aulas\Cursos\.NET 6 com Microserviços\Projeto Ecommerce\ErudioMicroservices.NET6\GeekShooping\GeekShooping.Web\bin\Debug\net6.0\GeekShooping.Web.pdb
+E:\Projetos\Aulas\Cursos\.NET 6 com Microserviços\Projeto Ecommerce\ErudioMicroservices.NET6\GeekShooping\GeekShooping.Web\obj\Debug\net6.0\GeekShooping.Web.csproj.AssemblyReference.cache
+E:\Projetos\Aulas\Cursos\.NET 6 com Microserviços\Projeto Ecommerce\ErudioMicroservices.NET6\GeekShooping\GeekShooping.Web\obj\Debug\net6.0\GeekShooping.Web.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\Aulas\Cursos\.NET 6 com Microserviços\Projeto Ecommerce\ErudioMicroservices.NET6\GeekShooping\GeekShooping.Web\obj\Debug\net6.0\GeekShooping.Web.AssemblyInfoInputs.cache
+E:\Projetos\Aulas\Cursos\.NET 6 com Microserviços\Projeto Ecommerce\ErudioMicroservices.NET6\GeekShooping\GeekShooping.Web\obj\Debug\net6.0\GeekShooping.Web.AssemblyInfo.cs
+E:\Projetos\Aulas\Cursos\.NET 6 com Microserviços\Projeto Ecommerce\ErudioMicroservices.NET6\GeekShooping\GeekShooping.Web\obj\Debug\net6.0\GeekShooping.Web.csproj.CoreCompileInputs.cache
+E:\Projetos\Aulas\Cursos\.NET 6 com Microserviços\Projeto Ecommerce\ErudioMicroservices.NET6\GeekShooping\GeekShooping.Web\obj\Debug\net6.0\GeekShooping.Web.MvcApplicationPartsAssemblyInfo.cache
+E:\Projetos\Aulas\Cursos\.NET 6 com Microserviços\Projeto Ecommerce\ErudioMicroservices.NET6\GeekShooping\GeekShooping.Web\obj\Debug\net6.0\GeekShooping.Web.RazorAssemblyInfo.cache
+E:\Projetos\Aulas\Cursos\.NET 6 com Microserviços\Projeto Ecommerce\ErudioMicroservices.NET6\GeekShooping\GeekShooping.Web\obj\Debug\net6.0\GeekShooping.Web.RazorAssemblyInfo.cs
+E:\Projetos\Aulas\Cursos\.NET 6 com Microserviços\Projeto Ecommerce\ErudioMicroservices.NET6\GeekShooping\GeekShooping.Web\obj\Debug\net6.0\staticwebassets.build.json
+E:\Projetos\Aulas\Cursos\.NET 6 com Microserviços\Projeto Ecommerce\ErudioMicroservices.NET6\GeekShooping\GeekShooping.Web\obj\Debug\net6.0\staticwebassets.development.json
+E:\Projetos\Aulas\Cursos\.NET 6 com Microserviços\Projeto Ecommerce\ErudioMicroservices.NET6\GeekShooping\GeekShooping.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Projetos\Aulas\Cursos\.NET 6 com Microserviços\Projeto Ecommerce\ErudioMicroservices.NET6\GeekShooping\GeekShooping.Web\obj\Debug\net6.0\scopedcss\bundle\GeekShooping.Web.styles.css
+E:\Projetos\Aulas\Cursos\.NET 6 com Microserviços\Projeto Ecommerce\ErudioMicroservices.NET6\GeekShooping\GeekShooping.Web\obj\Debug\net6.0\scopedcss\projectbundle\GeekShooping.Web.bundle.scp.css
+E:\Projetos\Aulas\Cursos\.NET 6 com Microserviços\Projeto Ecommerce\ErudioMicroservices.NET6\GeekShooping\GeekShooping.Web\obj\Debug\net6.0\GeekShooping.Web.dll
+E:\Projetos\Aulas\Cursos\.NET 6 com Microserviços\Projeto Ecommerce\ErudioMicroservices.NET6\GeekShooping\GeekShooping.Web\obj\Debug\net6.0\refint\GeekShooping.Web.dll
+E:\Projetos\Aulas\Cursos\.NET 6 com Microserviços\Projeto Ecommerce\ErudioMicroservices.NET6\GeekShooping\GeekShooping.Web\obj\Debug\net6.0\GeekShooping.Web.pdb
+E:\Projetos\Aulas\Cursos\.NET 6 com Microserviços\Projeto Ecommerce\ErudioMicroservices.NET6\GeekShooping\GeekShooping.Web\obj\Debug\net6.0\GeekShooping.Web.genruntimeconfig.cache
+E:\Projetos\Aulas\Cursos\.NET 6 com Microserviços\Projeto Ecommerce\ErudioMicroservices.NET6\GeekShooping\GeekShooping.Web\obj\Debug\net6.0\ref\GeekShooping.Web.dll
