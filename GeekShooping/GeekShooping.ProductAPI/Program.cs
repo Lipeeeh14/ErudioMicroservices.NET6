@@ -1,11 +1,22 @@
+using AutoMapper;
+using GeekShooping.ProductAPI.Config;
 using GeekShooping.ProductAPI.Model.Context;
+using GeekShooping.ProductAPI.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddSqlServer<SqlServerContext>(builder.Configuration["ConnectionString:GeekShooping_ProductAPI"]);
 
+IMapper mapper = MappingConfig.RegisterMaps().CreateMapper();
+builder.Services.AddSingleton(mapper);
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+
+builder.Services.AddScoped<IProductRepository, ProductRepository>();
+
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+builder.Services.AddControllers();
 
 var app = builder.Build();
 
@@ -15,28 +26,4 @@ if (app.Environment.IsDevelopment())
 	app.UseSwaggerUI();
 }
 
-var summaries = new[]
-{
-	"Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
-};
-
-app.MapGet("/weatherforecast", () =>
-{
-	var forecast = Enumerable.Range(1, 5).Select(index =>
-		new WeatherForecast
-		(
-			DateTime.Now.AddDays(index),
-			Random.Shared.Next(-20, 55),
-			summaries[Random.Shared.Next(summaries.Length)]
-		))
-		.ToArray();
-	return forecast;
-})
-.WithName("GetWeatherForecast");
-
 app.Run();
-
-internal record WeatherForecast(DateTime Date, int TemperatureC, string? Summary)
-{
-	public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
-}
